@@ -1,0 +1,95 @@
+@font-face {
+   font-family: "Larsseit";
+   src: url("../fonts/Larsseit/Larsseit.woff2") format("woff2"), url("../fonts/Larsseit/Larsseit.woff") format("woff");
+   font-display: swap;
+   font-weight: 400;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Larsseit";
+   src: url("../fonts/Larsseit/Larsseit-Medium.woff2") format("woff2"), url("../fonts/Larsseit/Larsseit-Medium.woff") format("woff");
+   font-display: swap;
+   font-weight: 500;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Larsseit";
+   src: url("../fonts/Larsseit/Larsseit-Bold.woff2") format("woff2"), url("../fonts/Larsseit/Larsseit-Bold.woff") format("woff");
+   font-display: swap;
+   font-weight: 700;
+   font-style: normal;
+}
+body {
+   font-family: "Lato";
+   color: darkgray;
+   font-weight: 400;
+}
+header,
+footer {
+   font-family: "Roboto";
+   font-weight: 700;
+   color: red;
+}
+h1 {
+   font-family: "Larsseit";
+   font-weight: 700;
+   color: orangered;
+}
+ol {
+   color: yellowgreen;
+   font-family: "Larsseit";
+   font-weight: 500;
+}
+span {
+   color: lightseagreen;
+   font-weight: 500;
+}
+p.yellow {
+   color: yellow;
+   font-family: "Roboto";
+   font-weight: 400;
+}
+.blue {
+   color: blue;
+   font-family: "Lato";
+   font-weight: 700;
+}
+.brown {
+   color: brown;
+   font-family: "Larsseit";
+   font-weight: 500;
+}
+.text,
+.text3,
+.text5 {
+   color: blueviolet;
+   font-family: "Lato";
+   font-weight: 700;
+}
+.text2,
+.text4 {
+   color: black;
+   font-family: "Roboto";
+   font-weight: 700;
+}
+.pink {
+   color: pink;
+   font-family: "Lato";
+   font-weight: 900;
+}
+p.text5 {
+   color: darkslateblue;
+   font-family: "Larsseit";
+   font-weight: 700;
+}
+.text > p {
+   color: darkmagenta;
+   font-family: "Larsseit";
+   font-weight: 700;
+}
+#bottom1,
+#bottom3 {
+   color: fuchsia;
+   font-family: "Lato";
+   font-weight: 400;
+}
